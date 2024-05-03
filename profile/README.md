@@ -30,3 +30,8 @@ karbantarthatóságra és biztonságra!
 autentikációra, autorizációra és adatvédelmere!
 - Tervezze meg és készítse el a fent bemutatott alkalmazást!
 - Igazolja tesztekkel a rendszer helyes működését!
+
+
+## Database
+
+[Datamodel](../ProjectZ%20adatmodell.xlsx)
