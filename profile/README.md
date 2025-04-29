@@ -32,6 +32,6 @@ autentikációra, autorizációra és adatvédelmere!
 - Igazolja tesztekkel a rendszer helyes működését!
 
 
-## Database
+## API endpoints
 
-[Datamodel](../ProjectZ%20adatmodell.xlsx)
+[API endpoint leírás]([../ProjectZ%20adatmodell.xlsx](https://docs.google.com/document/d/1jxSIk1kzDjulGpg4ofapruC6tpT_TqIQ2uz39WSRdck/edit?usp=sharing))
