@@ -32,6 +32,11 @@ autentikációra, autorizációra és adatvédelmere!
 - Igazolja tesztekkel a rendszer helyes működését!
 
 
+## Architecture diagram
+<p align="center">
+  <img src="../dipter_lendit.png" alt="Képernyőkép"/>
+</p>
+
 ## API endpoints
 
 [API endpoint leírás]([../ProjectZ%20adatmodell.xlsx](https://docs.google.com/document/d/1jxSIk1kzDjulGpg4ofapruC6tpT_TqIQ2uz39WSRdck/edit?usp=sharing))
